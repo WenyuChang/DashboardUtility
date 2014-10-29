@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<views>
+	<view
+		id="view0"
+		label="Sales">
+		<pod id="pod00" type="blank" title="pod1"/>
+		<pod id="pod04" type="blank" title="pod1"/>
+		<pod id="pod01" type="blank" title="pod2"/>
+		<pod id="pod02" type="blank" title="pod3"/>
+	</view>
+</views>
+
+<!--
+<pod id="pod03" type="blank" title="pod4"/>
+		<pod id="pod04" type="blank" title="pod5"/>
+		<pod id="pod05" type="blank" title="pod6"/>
+		<pod id="pod06" type="blank" title="pod7"/>-->

@@ -1,0 +1,43 @@
+.maximizeRestoreButton
+{
+}
+
+.minimizeButton
+{
+}
+Pod
+{
+	borderColor: #cccccc;
+   	borderAlpha: 1;
+   	borderThicknessLeft: 1;
+   	borderThicknessTop: 0;
+   	borderThicknessBottom: 1;
+   	borderThicknessRight: 1;
+   	paddingTop: 31;
+   	paddingBottom: 10;
+   	paddingLeft: 10;
+   	paddingRight: 10;
+   	verticalGap: 0;
+   	cornerRadius: 10;
+   	headerHeight: 22;
+   	headerColors: #c8dbfa, #c8dbfa;
+   	dropShadowEnabled: false;
+   	shadow-direction: right;
+	drop-shadow-color: #999999;
+	background-color: #fffeee;
+}
+
+.podTitle
+{
+	font-size: 11px;
+	font-family: arial;
+	font-weight: bold;
+}
+
+DragHighlight
+{
+	border-color: #CCCCCC;
+	border-thickness: 3px;
+	border-style: solid;
+	background-color: #F3F3F3;
+}
